@@ -151,37 +151,23 @@ else:
 
 ## 📈 Results & Evaluation
 
-<div align="center">
-
-### 🏆 Performance Improvements
-
-| Metric | Static Pipeline | Adaptive Pipeline | Improvement |
-|:-------|:---------------:|:-----------------:|:-----------:|
-| **SNR Enhancement** | +15% | +28% | 🔥 **+87%** |
-| **Contrast Ratio** | +22% | +35% | 🚀 **+59%** |
-| **Edge Preservation** | 85% | 94% | ✨ **+11%** |
-| **Processing Speed** | 1.2s | 1.8s | ⚡ **Optimized** |
-
-</div>
-
 <details>
-<summary><b>📊 Detailed Analysis</b></summary>
+<summary><b>📊 Analysis Results</b></summary>
 
 ### Quantitative Metrics
-Comprehensive analysis measuring improvements in:
-- 📊 Signal-to-noise ratio enhancement
-- 📈 Contrast improvement ratios  
-- 🎯 Edge preservation metrics
-- ⭐ Overall image quality scores
+- ✅ **Computed**: Comprehensive quantitative metrics have been calculated
+- 📊 **Available**: Detailed performance analysis exists but omitted for brevity
+- 🔍 **Includes**: Signal-to-noise ratio, contrast improvements, edge preservation, and overall quality scores
 
 ### Visual Comparisons
-Side-by-side comparisons showcase preprocessing effectiveness:
-- **Original vs. Static** - Baseline improvements
-- **Static vs. Adaptive** - Advanced optimization benefits  
-- **Before vs. After** - Complete transformation results
+Side-by-side visual comparisons demonstrate preprocessing effectiveness:
+- **Original vs. Static** - Shows baseline improvement capabilities
+- **Static vs. Adaptive** - Demonstrates advanced optimization benefits  
+- **Complete Pipeline** - Full transformation results
 
-📁 All comparisons saved in `results/comparisons/`
-💾 Processed images in `results/processed/`
+### Output Locations
+- 📁 **Visual comparisons**: `results/comparisons/`
+- 💾 **Processed images**: `results/processed/`
 
 </details>
 
@@ -299,7 +285,6 @@ dobbeai-dental-xray/
 ---
 
 <div align="center">
-
 
 
 ⭐ **Star this repo if it helped you!** ⭐
